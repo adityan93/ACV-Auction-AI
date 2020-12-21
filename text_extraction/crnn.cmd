@@ -1,0 +1,1 @@
+python3 crnn_main.py --trainroot ~/ --valroot ~/ --cuda --random_sample --imgH 32 --displayInterval 50 --valInterval 50 --saveInterval 50 --niter 1000 --nh 256 --adadelta --keep_ratio --lr 0.001 --crnn samples/netCRNN_50_1.pth

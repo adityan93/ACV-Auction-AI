@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/akshayverma948/acv/yolo/train.txt
+valid  = /home/akshayverma948/acv/yolo/test.txt
+names = data/tire.names
+backup = backup
+
